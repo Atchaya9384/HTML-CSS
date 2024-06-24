@@ -1,0 +1,30 @@
+<!HTMLDOC html>
+<html>
+<head>
+<style>
+div{
+  content:black;
+ background-color:yellow;
+ color:black;
+ padding:15px;
+ text-align:center;
+}
+div:hover{
+  background-color:violet;
+ color:white;
+ text-align:center;
+}
+h1{
+color:white;
+}
+</style>
+</head>
+<body>
+<h1> MUSICAL HUT COMPETITION </h1>
+<div> A GLOBAL PLATFORM FOR GIFTED SINGER/SONGWRITERS
+<p>  BE SEEN AND HEARED BVY MAJOR LABEL A&R'S </p>
+<p>  GROW YOUR SOCIAL MEDIA AND STREAMS </p>
+<p>  INCREASE YOUR FAN BASE </p>
+<p>  WORLDWIDE EXPOSURE</p>
+<p>  BUILD YOU BRAND </p>
+</body>

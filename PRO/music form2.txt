@@ -1,0 +1,30 @@
+<!HTMLDOC html>
+<html>
+<head> 
+<h2> SINGER COMPETITION APPLICATION</h2>
+</head>
+<body style="background-color:yellow;">
+<form>
+Singer Name:     <input type="text" name="music composer name" autofocus  required><br></br> 
+Other Singer name:     <input type="text" name="Other composer name" >
+(if applicable)<br></br> 
+Other Singer name:     <input type="text" name="Other composer name" >
+(if applicable) <br></br>
+Singer  E-mail:     <input type="text" name="music composer E-mail"  required><br></br>
+Singer  Phone Number: <input type="tel" id="phone" placeholder="0123456789" pattern="[0-9]{3}[0-9]{3}[0-9]{4}"  required><br></br>
+School/College/Workplace:     <input type="text" name="school/college/Workplace"  required><br></br> 
+Facilitator Name:     <input type="text" name="Facilitator Name"  required><br></br> 
+Facilitator E-mail:     <input type="text" name="Facilitator E-mail"  required><br></br> 
+Facilitator Phone Number: <input type="tel" id="phone" placeholder="0123456789" pattern="[0-9]{3}[0-9]{3}[0-9]{4}" required><br></br>
+Title of Song: <input type="text" name="Title of Song"  required><br></br>
+Nationlity: <input type="text" name="nationality"  required><br></br>
+State:<input type="text" name="state"  required><br></br>
+Address:     <br>   <input type="text" name="address" size="40" style= "height:150px"  required></br><br></br>
+Pincode: <input type="number" id="pincode" placeholder="012345"  required><br></br>
+</form>
+<a href="D:\PRO\musichut.html">
+<center><button>SUBMIT</button></center></a>
+<hr></hr>
+<p style="text-align:right";>FOR QUERIES CONTANT:7367637682</p>
+</body>
+</html>
